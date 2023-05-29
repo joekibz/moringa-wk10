@@ -29,7 +29,7 @@ customer attrition, and improve overall business performance.
 <b>Python file -</b> telco_customer_churn_pyspark (2).ipynb
 
 <br>
-There are some matplotlib charts, ipynb notebook recommended 
+<i>Note: There are some matplotlib charts, ipynb notebook recommended </i>
 
 </p>
 
