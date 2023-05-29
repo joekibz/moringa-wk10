@@ -24,9 +24,9 @@ customer attrition, and improve overall business performance.
   
 <p>
 <h4>Solution:</h4>
-<b>Ipynb notebook - </b>
+<b>Ipynb notebook - </b> Telco_Customer_Churn_Pyspark.ipynb
 <br>
-<b>Python file -</b> 
+<b>Python file -</b> telco_customer_churn_pyspark (2).ipynb
 
 <br>
 There are some matplotlib charts, ipynb notebook recommended 
